@@ -1,13 +1,12 @@
-package com.amigoscode.examples;
+package com.matrixjnr.examples;
 
 
-import com.amigoscode.beans.Person;
-import com.amigoscode.mockdata.MockData;
+import com.matrixjnr.beans.Person;
+import com.matrixjnr.mockdata.MockData;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class IntStreams {
 

@@ -1,4 +1,4 @@
-package com.amigoscode.beans;
+package com.matrixjnr.beans;
 
 public class Person {
 
